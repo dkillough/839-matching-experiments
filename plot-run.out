@@ -1,0 +1,174 @@
+Analyzing n=1...
+Found 10 preference lists for n=1
+  List 0: Stable matching reached in 2 turns
+  List 1: Stable matching reached in 2 turns
+  List 2: Stable matching reached in 2 turns
+  List 3: Stable matching reached in 2 turns
+  List 4: Stable matching reached in 2 turns
+  List 5: Stable matching reached in 2 turns
+  List 6: Stable matching reached in 2 turns
+  List 7: Stable matching reached in 2 turns
+  List 8: Stable matching reached in 2 turns
+  List 9: Stable matching reached in 2 turns
+Analyzing n=2...
+Found 10 preference lists for n=2
+  List 0: Stable matching reached in 3 turns
+  List 1: Stable matching reached in 3 turns
+  List 2: Stable matching reached in 3 turns
+  List 3: Stable matching reached in 3 turns
+  List 4: Stable matching reached in 3 turns
+  List 5: Stable matching reached in 3 turns
+  List 6: Stable matching reached in 3 turns
+  List 7: Stable matching reached in 3 turns
+  List 8: Stable matching reached in 3 turns
+  List 9: Stable matching reached in 3 turns
+Analyzing n=3...
+Found 10 preference lists for n=3
+  List 0: No stable matching reached in 1000 turns
+  List 1: Stable matching reached in 3 turns
+  List 2: Stable matching reached in 3 turns
+  List 3: Stable matching reached in 3 turns
+  List 4: Stable matching reached in 3 turns
+  List 5: Stable matching reached in 3 turns
+  List 6: No stable matching reached in 1000 turns
+  List 7: Stable matching reached in 3 turns
+  List 8: No stable matching reached in 1000 turns
+  List 9: Stable matching reached in 3 turns
+Analyzing n=4...
+Found 10 preference lists for n=4
+  List 0: Stable matching reached in 2 turns
+  List 1: No stable matching reached in 1000 turns
+  List 2: No stable matching reached in 1000 turns
+  List 3: Stable matching reached in 4 turns
+  List 4: Stable matching reached in 4 turns
+  List 5: No stable matching reached in 1000 turns
+  List 6: No stable matching reached in 1000 turns
+  List 7: Stable matching reached in 2 turns
+  List 8: No stable matching reached in 1000 turns
+  List 9: Stable matching reached in 2 turns
+Analyzing n=5...
+Found 10 preference lists for n=5
+  List 0: No stable matching reached in 1000 turns
+  List 1: No stable matching reached in 1000 turns
+  List 2: No stable matching reached in 1000 turns
+  List 3: No stable matching reached in 1000 turns
+  List 4: Stable matching reached in 4 turns
+  List 5: Stable matching reached in 2 turns
+  List 6: No stable matching reached in 1000 turns
+  List 7: Stable matching reached in 3 turns
+  List 8: No stable matching reached in 1000 turns
+  List 9: No stable matching reached in 1000 turns
+Analyzing n=6...
+Found 10 preference lists for n=6
+  List 0: No stable matching reached in 1000 turns
+  List 1: Stable matching reached in 4 turns
+  List 2: Stable matching reached in 4 turns
+  List 3: No stable matching reached in 1000 turns
+  List 4: No stable matching reached in 1000 turns
+  List 5: Stable matching reached in 4 turns
+  List 6: Stable matching reached in 4 turns
+  List 7: No stable matching reached in 1000 turns
+  List 8: Stable matching reached in 3 turns
+  List 9: No stable matching reached in 1000 turns
+Analyzing n=7...
+Found 10 preference lists for n=7
+  List 0: Stable matching reached in 4 turns
+  List 1: Stable matching reached in 5 turns
+  List 2: No stable matching reached in 1000 turns
+  List 3: No stable matching reached in 1000 turns
+  List 4: No stable matching reached in 1000 turns
+  List 5: No stable matching reached in 1000 turns
+  List 6: Stable matching reached in 4 turns
+  List 7: No stable matching reached in 1000 turns
+  List 8: No stable matching reached in 1000 turns
+  List 9: No stable matching reached in 1000 turns
+Analyzing n=8...
+Found 10 preference lists for n=8
+  List 0: No stable matching reached in 1000 turns
+  List 1: Stable matching reached in 5 turns
+  List 2: No stable matching reached in 1000 turns
+  List 3: Stable matching reached in 5 turns
+  List 4: Stable matching reached in 5 turns
+  List 5: No stable matching reached in 1000 turns
+  List 6: Stable matching reached in 4 turns
+  List 7: Stable matching reached in 4 turns
+  List 8: Stable matching reached in 5 turns
+  List 9: No stable matching reached in 1000 turns
+Analyzing n=9...
+Found 10 preference lists for n=9
+  List 0: Stable matching reached in 4 turns
+  List 1: No stable matching reached in 1000 turns
+  List 2: No stable matching reached in 1000 turns
+  List 3: Stable matching reached in 4 turns
+  List 4: No stable matching reached in 1000 turns
+  List 5: No stable matching reached in 1000 turns
+  List 6: No stable matching reached in 1000 turns
+  List 7: Stable matching reached in 4 turns
+  List 8: No stable matching reached in 1000 turns
+  List 9: Stable matching reached in 4 turns
+Analyzing n=10...
+Found 10 preference lists for n=10
+  List 0: No stable matching reached in 1000 turns
+  List 1: No stable matching reached in 1000 turns
+  List 2: No stable matching reached in 1000 turns
+  List 3: No stable matching reached in 1000 turns
+  List 4: Stable matching reached in 3 turns
+  List 5: Stable matching reached in 3 turns
+  List 6: No stable matching reached in 1000 turns
+  List 7: No stable matching reached in 1000 turns
+  List 8: No stable matching reached in 1000 turns
+  List 9: No stable matching reached in 1000 turns
+Plots saved as 'utility_statistics.png'
+Distribution plot saved as 'utility_distribution_n5.png'
+
+Summary:
+N=1: 10 stable matchings
+  Avg Min Utility: -0.1000
+  Avg Max Utility: 2.7000
+  Avg Avg Utility: 1.3000
+  Avg Turns: 2.00
+N=2: 10 stable matchings
+  Avg Min Utility: -0.2175
+  Avg Max Utility: 3.4000
+  Avg Avg Utility: 1.8325
+  Avg Turns: 3.00
+N=3: 7 stable matchings
+  Avg Min Utility: -0.2095
+  Avg Max Utility: 3.6310
+  Avg Avg Utility: 1.8694
+  Avg Turns: 3.00
+N=4: 5 stable matchings
+  Avg Min Utility: -0.2325
+  Avg Max Utility: 3.1500
+  Avg Avg Utility: 1.6166
+  Avg Turns: 2.80
+N=5: 3 stable matchings
+  Avg Min Utility: -0.2533
+  Avg Max Utility: 3.2167
+  Avg Avg Utility: 1.6907
+  Avg Turns: 3.00
+N=6: 5 stable matchings
+  Avg Min Utility: -0.2900
+  Avg Max Utility: 4.9333
+  Avg Avg Utility: 2.4031
+  Avg Turns: 3.80
+N=7: 3 stable matchings
+  Avg Min Utility: -0.3619
+  Avg Max Utility: 5.6071
+  Avg Avg Utility: 2.7871
+  Avg Turns: 4.33
+N=8: 6 stable matchings
+  Avg Min Utility: -0.4083
+  Avg Max Utility: 5.2167
+  Avg Avg Utility: 2.9512
+  Avg Turns: 4.67
+N=9: 4 stable matchings
+  Avg Min Utility: -0.2861
+  Avg Max Utility: 5.0556
+  Avg Avg Utility: 2.6203
+  Avg Turns: 4.00
+N=10: 2 stable matchings
+  Avg Min Utility: -0.1800
+  Avg Max Utility: 4.0500
+  Avg Avg Utility: 1.5211
+  Avg Turns: 3.00

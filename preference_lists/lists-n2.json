@@ -1,0 +1,222 @@
+[
+    {
+        "men_preferences": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "women_preferences": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "women_preferences": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                2,
+                3
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "women_preferences": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                3,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ],
+        "women_preferences": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                0
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "women_preferences": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "women_preferences": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                3,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ],
+        "women_preferences": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ]
+        ],
+        "women_preferences": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                2,
+                3
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "women_preferences": [
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                0
+            ]
+        ]
+    },
+    {
+        "men_preferences": [
+            [
+                2,
+                3
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "women_preferences": [
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    }
+]
